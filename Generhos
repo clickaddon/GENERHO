@@ -3,7 +3,7 @@
 
 <channel>
 
-<name>[COLOR skyblue]AÇÃO[/COLOR]</name>
+<name>[B][COLOR skyblue]>>> AÇÃO[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/emSCCKs.jpg</thumbnail>
 
@@ -19,7 +19,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR lavender]ANIMAÇÃO[/COLOR]</name>
+<name>[B][COLOR lavender]>>> ANIMAÇÃO[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/PdArDEC.jpg</thumbnail>
 
@@ -35,7 +35,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR thistle]AVENTURA[/COLOR]</name>
+<name>[B][COLOR thistle]>>> AVENTURA[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/fjPMNjr.jpg</thumbnail>
 
@@ -51,7 +51,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR wheat]COMÉDIA[/COLOR]</name>
+<name>[B][COLOR wheat]>>> COMÉDIA[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/NidaBz5.jpg</thumbnail>
 
@@ -67,7 +67,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR goldenrod]DRAMA[/COLOR]</name>
+<name>[B][COLOR goldenrod]>>> DRAMA[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/wmE1V6D.jpg</thumbnail>
 
@@ -83,7 +83,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR aquamarine] FAMÍLIA[/COLOR]</name>
+<name>[B][COLOR aquamarine]>>> FAMÍLIA[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/7VWGFE4.jpg</thumbnail>
 
@@ -100,7 +100,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR powderblue]FANTASIA[/COLOR]</name>
+<name>[B][COLOR powderblue]>>> FANTASIA[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/efzCgyc.jpg</thumbnail>
 
@@ -116,7 +116,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR aquamarine]FAROESTE[/COLOR]</name>
+<name>[B][COLOR aquamarine]>>> FAROESTE[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/lpgImUC.jpg</thumbnail>
 
@@ -132,7 +132,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>INFANTIL</name>
+<name>[B][B][COLOR paleturquoise]>>> INFANTIL[/COLOR][B][/B]</name>
 
 <thumbnail>https://i.imgur.com/DVuBhmg.jpg</thumbnail>
 
@@ -148,7 +148,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR goldenrod]SUSPENSE[/COLOR]</name>
+<name>[B][COLOR goldenrod]>>> SUSPENSE[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/2MlbQDE.jpg</thumbnail>
 
@@ -165,7 +165,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
-<name>[COLOR wheat]TERROR[/COLOR]</name>
+<name>[B][COLOR wheat]>>> TERROR[/COLOR][/B]</name>
 
 <thumbnail>https://i.imgur.com/O0ldI4D.jpg</thumbnail>
 
