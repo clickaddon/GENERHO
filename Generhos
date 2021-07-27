@@ -3,15 +3,15 @@
 
 <channel>
 
-<name>[B][COLOR mediumspringgreen]>>> AÇÃO[/COLOR][/B]</name>
+<name>[B][COLOR mediumspringgreen]>>> AÇÃO/AVENTURA[/COLOR][/B]</name>
 
-<thumbnail>https://i.imgur.com/emSCCKs.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/3QLlz0P.jpg</thumbnail>
 
-<externallink>https://github.com/clickaddon/Acthion/raw/main/Action</externallink>
+<externallink>https://github.com/clickaddon/Acthion-Aventhura/raw/main/Action</externallink>
 
 <fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
 
-<info>O QUE FAZ UM FILME DE AÇÃO SER BOM? UMA BELA DISPUTA DO BEM CONTRA O MAL? MUITA VELOCIDADE EM PERSEGUIÇÕES E CORRIDAS RECHEADÍSSIMAS DE ADRENALINA? UMAS BOAS LUTAS, COM ARMAS OU DE PRÓPRIO PUNHO? ALIENS, ROBÔS, MAFIOSOS, CRIMINOSOS, DESASTRES, GUERRAS? DESCUBRA TUDO ISSO NESSA SEÇÃO. FILMES COM TUDO PARA AGRADAR OS MAIORES FANÁTICOS POR ADRENALINA.</info>
+<info>O QUE FAZ UM FILME DE AÇÃO, DE AVENTURA SER BOM? UMA BELA DISPUTA DO BEM CONTRA O MAL? MUITA VELOCIDADE EM PERSEGUIÇÕES E CORRIDAS RECHEADÍSSIMAS DE ADRENALINA? UMAS BOAS LUTAS, COM ARMAS OU DE PRÓPRIO PUNHO? ALIENS, ROBÔS, MAFIOSOS, CRIMINOSOS, DESASTRES, GUERRAS? DESCUBRA TUDO ISSO NESSA SEÇÃO. FILMES COM TUDO PARA AGRADAR OS MAIORES FANÁTICOS POR AVENTURA E ADRENALINA.</info>
 
 </channel>
 
@@ -32,22 +32,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channel>
-
-<name>[B][COLOR wheat]>>> AVENTURA[/COLOR][/B]</name>
-
-<thumbnail>https://i.imgur.com/fjPMNjr.jpg</thumbnail>
-
-<externallink>https://github.com/clickaddon/aventhura/raw/main/Aventhura</externallink>
-
-<fanart>https://i.imgur.com/P4DDzB6.jpg</fanart>
-
-<info>PARA AQUELES QUE CURTEM MAIS AÇÃO, PARA OS QUE CURTEM A MISTURA DE DRAMA COM COMÉDIA, OU PARA OS GRANDES FÃS DE FICÇÃO CIENTÍFICA, VÁRIOS TIPOS DE PRODUÇÕES CINEMATOGRÁFICAS ALIAM A AVENTURA A SUAS TRAMAS PARA GARANTIR AINDA MAIS EMOÇÃO. CONFIRA UMA LISTA DE FILMES DE AVENTURAS INCRÍVEIS. TEM PARA TODOS OS GOSTOS!</info>
-
-</channel>
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channel>
 
